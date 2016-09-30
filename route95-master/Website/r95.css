@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 100%;
+	font-weight: normal;
+}
+
+h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+lnk {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 1.5em;
+	font-weight: normal;
+	text-align: justify, center;
+	/* margin: auto; */
+	/* width: 60%; */
+	/*vertical-align: middle;*/
+	
+}
+
+p.txtpos {
+	margin-right: 175px;
+    margin-left: 200px;
+
+}
